@@ -1,0 +1,20 @@
+.font {
+  &__item-reg {
+    font-weight: 400;
+  }
+
+  &__item-bold {
+    font-weight: 700;
+  }
+
+  &__item-lato-bold {
+    font-weight: 700;
+    font-family: "Lato", sans-serif;
+  }
+
+  &__item-lato-black {
+    font-weight: 900;
+    font-family: "Lato", sans-serif;
+  }
+}
+
